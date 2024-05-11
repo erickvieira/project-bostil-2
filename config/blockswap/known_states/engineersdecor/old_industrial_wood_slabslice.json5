@@ -1,0 +1,246 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "0"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "1"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "1"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "2"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "2"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "3"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "3"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "4"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "4"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "5"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "5"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "6"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "6"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "7"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "7"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "8"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "8"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "9"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "9"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "10"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "10"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "11"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "11"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "12"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "12"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "13"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "13"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"parts": "14"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"parts": "14"
+		},
+		"Name": "engineersdecor:old_industrial_wood_slabslice"
+	}
+]

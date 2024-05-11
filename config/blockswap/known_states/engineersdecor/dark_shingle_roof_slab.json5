@@ -1,0 +1,221 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"tvariant": "0"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"tvariant": "0"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"tvariant": "0"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"tvariant": "0"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"tvariant": "0"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"tvariant": "1"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"tvariant": "1"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"tvariant": "1"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"tvariant": "1"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"tvariant": "1"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"tvariant": "1"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"tvariant": "2"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"tvariant": "2"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"tvariant": "2"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"tvariant": "2"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"tvariant": "2"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"tvariant": "2"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"tvariant": "3"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"tvariant": "3"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"tvariant": "3"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"tvariant": "3"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"tvariant": "3"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"tvariant": "3"
+		},
+		"Name": "engineersdecor:dark_shingle_roof_slab"
+	}
+]

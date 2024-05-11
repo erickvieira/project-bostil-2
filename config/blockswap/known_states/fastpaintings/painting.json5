@@ -1,0 +1,2884 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "0",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "1",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "2",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "3",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "4",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "5",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "0",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "1",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "2",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "3",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "4",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "0",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "1",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "2",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "3",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "4",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"y_offset": "5",
+			"x_offset": "5",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "fastpaintings:painting"
+	}
+]

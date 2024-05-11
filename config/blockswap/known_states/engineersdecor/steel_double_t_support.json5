@@ -1,0 +1,531 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "true",
+			"leftbeam": "true",
+			"eastwest": "true",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "false",
+			"leftbeam": "true",
+			"eastwest": "true",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "false",
+			"leftbeam": "true",
+			"eastwest": "true",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "true",
+			"leftbeam": "false",
+			"eastwest": "true",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "true",
+			"leftbeam": "false",
+			"eastwest": "true",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "false",
+			"leftbeam": "false",
+			"eastwest": "true",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "false",
+			"leftbeam": "false",
+			"eastwest": "true",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "true",
+			"leftbeam": "true",
+			"eastwest": "false",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "true",
+			"leftbeam": "true",
+			"eastwest": "false",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "false",
+			"leftbeam": "true",
+			"eastwest": "false",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "false",
+			"leftbeam": "true",
+			"eastwest": "false",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "true",
+			"leftbeam": "false",
+			"eastwest": "false",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "true",
+			"leftbeam": "false",
+			"eastwest": "false",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "false",
+			"leftbeam": "false",
+			"eastwest": "false",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "false",
+			"leftbeam": "false",
+			"eastwest": "false",
+			"downconnect": "0"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "true",
+			"leftbeam": "true",
+			"eastwest": "true",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "true",
+			"leftbeam": "true",
+			"eastwest": "true",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "false",
+			"leftbeam": "true",
+			"eastwest": "true",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "false",
+			"leftbeam": "true",
+			"eastwest": "true",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "true",
+			"leftbeam": "false",
+			"eastwest": "true",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "true",
+			"leftbeam": "false",
+			"eastwest": "true",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "false",
+			"leftbeam": "false",
+			"eastwest": "true",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "false",
+			"leftbeam": "false",
+			"eastwest": "true",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "true",
+			"leftbeam": "true",
+			"eastwest": "false",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "true",
+			"leftbeam": "true",
+			"eastwest": "false",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "false",
+			"leftbeam": "true",
+			"eastwest": "false",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "false",
+			"leftbeam": "true",
+			"eastwest": "false",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "true",
+			"leftbeam": "false",
+			"eastwest": "false",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "true",
+			"leftbeam": "false",
+			"eastwest": "false",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "false",
+			"leftbeam": "false",
+			"eastwest": "false",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "false",
+			"leftbeam": "false",
+			"eastwest": "false",
+			"downconnect": "1"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "true",
+			"leftbeam": "true",
+			"eastwest": "true",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "true",
+			"leftbeam": "true",
+			"eastwest": "true",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "false",
+			"leftbeam": "true",
+			"eastwest": "true",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "false",
+			"leftbeam": "true",
+			"eastwest": "true",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "true",
+			"leftbeam": "false",
+			"eastwest": "true",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "true",
+			"leftbeam": "false",
+			"eastwest": "true",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "false",
+			"leftbeam": "false",
+			"eastwest": "true",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "false",
+			"leftbeam": "false",
+			"eastwest": "true",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "true",
+			"leftbeam": "true",
+			"eastwest": "false",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "true",
+			"leftbeam": "true",
+			"eastwest": "false",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "false",
+			"leftbeam": "true",
+			"eastwest": "false",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "false",
+			"leftbeam": "true",
+			"eastwest": "false",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "true",
+			"leftbeam": "false",
+			"eastwest": "false",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "true",
+			"leftbeam": "false",
+			"eastwest": "false",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rightbeam": "false",
+			"leftbeam": "false",
+			"eastwest": "false",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rightbeam": "false",
+			"leftbeam": "false",
+			"eastwest": "false",
+			"downconnect": "2"
+		},
+		"Name": "engineersdecor:steel_double_t_support"
+	}
+]

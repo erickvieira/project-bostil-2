@@ -1,0 +1,134 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"facing": "north"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"facing": "north"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"facing": "north"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"facing": "south"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"facing": "south"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"facing": "south"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"facing": "south"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"facing": "west"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"facing": "west"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"facing": "west"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"facing": "west"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"facing": "east"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"facing": "east"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"facing": "east"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"facing": "east"
+		},
+		"Name": "handcrafted:oak_counter_2"
+	}
+]

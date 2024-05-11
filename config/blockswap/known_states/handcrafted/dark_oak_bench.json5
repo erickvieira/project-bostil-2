@@ -1,0 +1,581 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "single",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "left",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "left",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "right",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "right",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"facing": "north"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "single",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "single",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "left",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "left",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "right",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "right",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"facing": "south"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "single",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "single",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "left",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "left",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "right",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "right",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"facing": "west"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "single",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "single",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "left",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "left",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "right",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "right",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"facing": "east"
+		},
+		"Name": "handcrafted:dark_oak_bench"
+	}
+]

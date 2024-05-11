@@ -1,0 +1,5186 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "0"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "1"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "send",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "redstone",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "north",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "north",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "south",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "south",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "west",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "west",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "true",
+			"facing": "east",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "sending",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "receiving",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"transfer": "none",
+			"plate": "false",
+			"facing": "east",
+			"config": "receive",
+			"cell": "2"
+		},
+		"Name": "tetra:transfer_unit"
+	}
+]

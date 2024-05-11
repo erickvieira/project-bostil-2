@@ -1,0 +1,2525 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "single"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "center"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "north_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "east_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "south_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "west_side"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "north_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "north_west_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "south_east_corner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "south_west_coner"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "north_coverr"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "east_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "south_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "single",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "single",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "center",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "center",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_east_corner",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_west_corner",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_east_corner",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_west_corner",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "north_side",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "north_side",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "east_side",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "east_side",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "south_side",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "south_side",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"table_shape": "west_side",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"table_shape": "west_side",
+			"sheet_shape": "west_cover"
+		},
+		"Name": "handcrafted:birch_table"
+	}
+]

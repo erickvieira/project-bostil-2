@@ -1,0 +1,644 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "0",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "0",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "0",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "0",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "1",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "1",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "1",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "1",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "2",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "2",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "2",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "2",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "3",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "3",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "3",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "3",
+			"facing": "north"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "0",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "0",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "0",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "0",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "1",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "1",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "1",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "1",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "2",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "2",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "2",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "2",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "3",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "3",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "3",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "3",
+			"facing": "south"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "0",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "0",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "0",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "0",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "1",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "1",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "1",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "1",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "2",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "2",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "2",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "2",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "3",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "3",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "3",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "3",
+			"facing": "west"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "0",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "0",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "0",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "0",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "1",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "1",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "1",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "1",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "2",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "2",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "2",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "false",
+			"integrity": "2",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "true",
+			"integrity": "3",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"stacked": "true",
+			"integrity": "3",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"stacked": "false",
+			"integrity": "3",
+			"facing": "east"
+		},
+		"Name": "tetra:forged_crate"
+	},
+	{
+		"Name": "tetra:forged_crate"
+	}
+]

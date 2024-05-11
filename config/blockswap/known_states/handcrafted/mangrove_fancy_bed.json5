@@ -1,0 +1,644 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "head",
+			"occupied": "true",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "head",
+			"occupied": "true",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "head",
+			"occupied": "true",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "head",
+			"occupied": "true",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "head",
+			"occupied": "false",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "head",
+			"occupied": "false",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "head",
+			"occupied": "false",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "head",
+			"occupied": "false",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "north"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "head",
+			"occupied": "true",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "head",
+			"occupied": "true",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "head",
+			"occupied": "true",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "head",
+			"occupied": "true",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "head",
+			"occupied": "false",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "head",
+			"occupied": "false",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "head",
+			"occupied": "false",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "head",
+			"occupied": "false",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "south"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "head",
+			"occupied": "true",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "head",
+			"occupied": "true",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "head",
+			"occupied": "true",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "head",
+			"occupied": "true",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "head",
+			"occupied": "false",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "head",
+			"occupied": "false",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "head",
+			"occupied": "false",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "head",
+			"occupied": "false",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "west"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "head",
+			"occupied": "true",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "head",
+			"occupied": "true",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "head",
+			"occupied": "true",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "head",
+			"occupied": "true",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "foot",
+			"occupied": "true",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "head",
+			"occupied": "false",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "head",
+			"occupied": "false",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "head",
+			"occupied": "false",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "head",
+			"occupied": "false",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "left",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "right",
+			"part": "foot",
+			"occupied": "false",
+			"facing": "east"
+		},
+		"Name": "handcrafted:mangrove_fancy_bed"
+	}
+]
